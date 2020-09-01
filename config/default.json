@@ -1,0 +1,5 @@
+{
+  "mongoURI": "<YourMongoDBUri>",
+  "jwtSecret": "secret",
+  "githubToken": "<yoursecrectaccesstoken>"
+}
