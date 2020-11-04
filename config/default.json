@@ -1,5 +1,5 @@
 {
-  "mongoURI": "<YourMongoDBUri>",
+  "mongoURI": "mongodb+srv://mo17:DDi2g3TrUyNy1gZh@devnetwork.p6r53.mongodb.net/social?retryWrites=true&w=majority",
   "jwtSecret": "secret",
-  "githubToken": "<yoursecrectaccesstoken>"
+  "githubToken": "a88028ee736e34a247609899c1f154325e39fbee"
 }
